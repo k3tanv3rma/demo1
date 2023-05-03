@@ -1,0 +1,9 @@
+touch a
+rcs -i a
+nano a
+ci a
+co -l a
+rlog a
+rcsdiff -r1.1 -r1.2 a
+
+
